@@ -3,7 +3,7 @@
 Excel-based interactive sales dashboard analyzing pizza restaurant performance using Pivot Tables, XLOOKUP, KPI cards, and data visualization.
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Project Overview
 Transformed raw CSV data from 4 relational datasets into a fully interactive Excel dashboard to analyze pizza sales performance, customer ordering patterns, and revenue trends.
